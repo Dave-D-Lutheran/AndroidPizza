@@ -1,12 +1,12 @@
 # AndroidPizza
 
-  NAME              |      ID
-  ------------      | -------------
- YENEW AYENEW       |          1350
- DAWIT GETACHEW     |         1166
- AMBACHEW TAREKEGN  |         1115
- CHRISTIAN SOLOMON  |         1117
- MELKAMU WALE       |         1259
+  NAME              |      ID          |   DUTIES
+  ------------      | -------------    | ---------------
+ YENEW AYENEW       |         1350     |   CODER
+ DAWIT GETACHEW     |         1166     |   CODER
+ AMBACHEW TAREKEGN  |         1115     |   TESTER
+ CHRISTIAN SOLOMON  |         1117     |   ANALYST
+ MELKAMU WALE       |         1259     |   TESTER
 
 
 # About project
