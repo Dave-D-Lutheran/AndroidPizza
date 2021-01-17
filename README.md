@@ -1,18 +1,17 @@
 # AndroidPizza
 
-  NAME              |      ID          |   DUTIES
-  ------------      | -------------    | ---------------
- YENEW AYENEW       |         1350     |   CODER
- DAWIT GETACHEW     |         1166     |   CODER
- AMBACHEW TAREKEGN  |         1115     |   TESTER
- CHRISTIAN SOLOMON  |         1117     |   ANALYST
- MELKAMU WALE       |         1259     |   TESTER
+  NAME              |      ID
+  ------------      | -------------
+ YENEW AYENEW       |          1350
+ DAWIT GETACHEW     |         1166
+ AMBACHEW TAREKEGN  |         1115
+ CHRISTIAN SOLOMON  |         1117
+ MELKAMU WALE       |         1259
 
 
 # About project
 This project is developed android and has database
 which can save time and can addrese the users need 
 properly.
-
-
+and also the project solve the problem of that happens in the time of exchangs cost of food
 
