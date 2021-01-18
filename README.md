@@ -6,7 +6,7 @@
  DAWIT GETACHEW     |         1166  |    CODER    |
  AMBACHEW TAREKEGN  |         1115  | UI DESIGNER |
  CHRISTIAN SOLOMON  |         1117  |  ANALYST    |
- MELKAMU WALE       |         1259  |   IMPLEMENT |
+ MELKAMU WALE       |         1259  | IMPLEMENTER |
 
 
 # About project
