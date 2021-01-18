@@ -50,7 +50,8 @@ The app is used is to order and deliver pizza within 15 min,the process is first
 ![image](https://user-images.githubusercontent.com/76688300/104965038-d83e9280-59ee-11eb-96c3-40d4d03bbcf2.png)
 
 ## complet order
-![image](https://user-images.githubusercontent.com/76688300/104964452-7f222f00-59ed-11eb-8f76-512145cc8c05.png)
+![image](https://user-images.githubusercontent.com/76688300/104965173-2f446780-59ef-11eb-88bf-8d518a4a2111.png)
+
 
 ## Help
 ![image](https://user-images.githubusercontent.com/76688300/104964567-b264be00-59ed-11eb-8b62-1d23bde30555.png)
