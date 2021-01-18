@@ -36,16 +36,20 @@ The app is used is to order and deliver pizza within 15 min,the process is first
 
 ![image](https://user-images.githubusercontent.com/76688300/104964357-4f732700-59ed-11eb-8ab9-6cbea27a8d09.png)
 
-## piza size,type,topping
+## piza size,type,selection
 
 ![image](https://user-images.githubusercontent.com/76688300/104964097-d7a4fc80-59ec-11eb-8627-c78587496f48.png)
 
 ![image](https://user-images.githubusercontent.com/76688300/104964180-facfac00-59ec-11eb-82b0-4777caa51f31.png)
 
-![image](https://user-images.githubusercontent.com/76688300/104964024-b7753d80-59ec-11eb-9696-49d524be85e6.png)
+![image](https://user-images.githubusercontent.com/76688300/104964947-99104180-59ee-11eb-8780-753d9a073951.png)
 
-##  order summery(chekout)
 
+##  chekout
+
+![image](https://user-images.githubusercontent.com/76688300/104965038-d83e9280-59ee-11eb-96c3-40d4d03bbcf2.png)
+
+## complet order
 ![image](https://user-images.githubusercontent.com/76688300/104964452-7f222f00-59ed-11eb-8f76-512145cc8c05.png)
 
 ## Help
