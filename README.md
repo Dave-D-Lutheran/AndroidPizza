@@ -32,7 +32,7 @@ The app is used is to order and deliver pizza within 15 min,the process is first
 ## order interface
 ![image](https://user-images.githubusercontent.com/76688300/104963965-9ca2c900-59ec-11eb-9f24-e152fa8fb72b.png)
 
-### how to add
+### how to order
 
 ![image](https://user-images.githubusercontent.com/76688300/104964357-4f732700-59ed-11eb-8ab9-6cbea27a8d09.png)
 
